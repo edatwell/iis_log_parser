@@ -5,9 +5,9 @@
 A simple python script that takes three command line arguments
 
 
-    *-i --infile* The log file you wish to parse
-    *-o --outfile* The results file you wish to create
-    *-p --pattern* A regex pattern to use in parsing file. A string should work
+    -i --infile The log file you wish to parse
+    -o --outfile The results file you wish to create
+    -p --pattern A regex pattern to use in parsing file. A string should work
 
 ##Requirements
 
